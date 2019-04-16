@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int i,n,j=0,k=0,x=0,l,req[50],mov=0,cp,ub,end,pv, lower[100],upper[100], temp,a[100];
+    int i,n,j=0,k=0,x=0,l,req[100],mov=0,cp,ub,end,pv, lower[100],upper[100], temp,a[100];
     printf("Enter total number of cylinders present \n");    
     scanf("%d",&ub);
 	printf("Enter the current position\n");

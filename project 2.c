@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 int main()
 {
     int i,n,j=0,k=0,x=0,l,req[100],mov=0,cp,ub,end,pv, lower[100],upper[100], temp,a[100];
